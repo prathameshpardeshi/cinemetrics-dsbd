@@ -86,3 +86,4 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 - **Theme**: Editorial Letterboxd / IMDb Pro Dark
 - **Palette**: Dark background (`#0b0d10`), card containers (`#14181d`), amber accents (`#e5a93c`), and teal accents (`#2dd4bf`).
 - **Typography**: Inter for UI, JetBrains Mono for metrics and numerical tables.
+
